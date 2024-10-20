@@ -1,4 +1,5 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/a049760c-3195-42ca-8f43-9a3c323e8715)
+
 
 <!--
 **NAYA0903/NAYA0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
