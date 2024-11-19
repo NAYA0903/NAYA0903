@@ -9,8 +9,8 @@
 
 ## 🖥 Project 🖥
 - 데이터 기반 초보 부모를 위한 맞춤형 육아 일정 관리 서비스 <b>걸음마</b> 개발 (2024.09.11 ~ 2024.09.25)
-- <b>AIGO PROJECT</b> (2024.10 ~ ing )
-- <b>SMHRD FINALPROJECT</b> (2024.10 ~ ing)
+- KDT Hackathon<b>AIGO PROJECT</b> (2024.10 ~ ing )
+- AI기반 아동 미술심리서비스 <b>ARTI PROJECT</b> (2024.10 ~ ing)
 
 <br>
 
