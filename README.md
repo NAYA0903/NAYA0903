@@ -85,12 +85,6 @@
         <th>내용</th>
     </tr>
     <tr>
-        <td>Back-end</td>
-        <td>
-            
-        </td>
-    </tr>
-    <tr>
         <td>Front-end</td>
         <td>
             <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
