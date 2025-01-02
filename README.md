@@ -5,6 +5,7 @@
 ## 📝 DEV's log 📝
 <a href="https://velog.io/@naya_0903/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 <a href="https://naya0903.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF6000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+
 <br>
 
 ## 🖥 Project 🖥
