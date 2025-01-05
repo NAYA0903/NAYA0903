@@ -102,9 +102,21 @@
         </td>
     </tr>
     <tr>
+        <td>Container Platform</td>
+        <td>
+            <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
         <td>DataBase</td>
         <td>
             <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Server</td>
+        <td>
+            <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
         </td>
     </tr>
 </table>
