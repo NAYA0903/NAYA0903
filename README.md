@@ -7,6 +7,7 @@
 <a href="https://naya0903.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF6000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
 <br>
+
 ## 🏬 Careers 🏬
 - <b>IndeepAI</b> Back-end Engineer (2025.01 ~ ing)
 
