@@ -7,11 +7,15 @@
 <a href="https://naya0903.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF6000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
 <br>
+## 🏬 Careers 🏬
+- <b>IndeepAI</b> Back-end Engineer (2025.01 ~ ing)
+
+<br>
 
 ## 🖥 Project 🖥
 - AWS활용 ToyProject <b>MyPortfolio project</b> (2024.12.23 ~ ing)
 - AI기반 아동 미술심리 검사 및 동화 생성 서비스 <b>ARTI PROJECT</b> (2024.11.27 ~ 2024.12.19)
-- KDT Hackathon <b>AIGO PROJECT</b> (2024.10 ~ 2024.11.21 )
+- KDT Hackathon <b>AIGO PROJECT</b> (2024.10 ~ 2024.11.21)
 - 데이터 기반 초보 부모를 위한 맞춤형 육아 일정 관리 서비스 <b>걸음마</b> 프로젝트 (2024.09.11 ~ 2024.09.25)
 
 
