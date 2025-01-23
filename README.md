@@ -89,6 +89,12 @@
             <img src="https://img.shields.io/badge/GitHub Actions-2496ED?style=for-the-badge&logo=GitHub&logoColor=white"/>
         </td>
     </tr>
+     <tr>
+        <td>Operating System</td>
+        <td>
+            <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+        </td>
+    </tr>
 </table>
 
 <br>
@@ -104,12 +110,6 @@
         <td>Front-end</td>
         <td>
             <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-        </td>
-    </tr>
-    <tr>
-        <td>Operating System</td>
-        <td>
-            <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
         </td>
     </tr>
     <tr>
