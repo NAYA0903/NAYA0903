@@ -9,7 +9,7 @@
 <br>
 
 ## 🏬 Careers 🏬
-- <b>IndeepAI</b> Team.Findeet! Back-end Engineer (2025.01 ~ ing)
+- <b>IndeepAI</b>(Team.Findeet!) Back-end Engineer (2025.01 ~ ing)
 
 <br>
 
