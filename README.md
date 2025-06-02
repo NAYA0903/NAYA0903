@@ -13,30 +13,6 @@
 
 <br>
 
-## 🖥 Project 🖥
-- AWS활용 SpringBoot 배포 프로젝트 <b>MyPortfolio project</b> (2024.12.23 ~ 2025.01.14)
-- AI기반 아동 미술심리 검사 및 동화 생성 서비스 <b>ARTI PROJECT</b> (2024.11.27 ~ 2024.12.19)
-- KDT Hackathon <b>AIGO PROJECT</b> (2024.10 ~ 2024.11.21)
-- 데이터 기반 초보 부모를 위한 맞춤형 육아 일정 관리 서비스 <b>걸음마</b> 프로젝트 (2024.09.11 ~ 2024.09.25)
-
-
-
-<br>
-
-## ✨ Experience ✨ 
-- <b>SMHRD 2024 K-Digital Training DCX 빅데이터 분석서비스 개발자과정</b> (2024.06.29 ~ 2024.12.20)
-- <b>제6회 K-디지털 트레이닝 해커톤 </b> (2024.08 ~ 2024.11.21)
-
-<br>
-
-## 🏆Award🏆
-- SMHRD 실전역량프로젝트 <b>최우수상</b> (2024.12.20)
-- 제 6회 K-디지털 트레이닝 해커톤 <b>직업능력심사평가원장상</b> (2024.11.21)
-
-
-
-<br>
-
 ## 💻 Tech Stack 💻
 
 <table>
@@ -49,8 +25,8 @@
         <td>
             <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
             <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
+            <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
         </td>
     </tr>
     <tr>
@@ -62,9 +38,10 @@
         </td>
     </tr>
     <tr>
-        <td>Server</td>
+        <td>Framework</td>
         <td>
-            <img src="https://img.shields.io/badge/Apache Tomcat-D22128?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
+            <img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+            <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -72,6 +49,7 @@
         <td>
             <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+            <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -79,6 +57,8 @@
         <td>
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+            <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -91,6 +71,12 @@
         <td>Operating System</td>
         <td>
             <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Cloud</td>
+        <td>
+            <p>AWS</p>
         </td>
     </tr>
 </table>
@@ -108,24 +94,6 @@
         <td>Front-end</td>
         <td>
             <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-        </td>
-    </tr>
-    <tr>
-        <td>Container Platform</td>
-        <td>
-            <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-        </td>
-    </tr>
-    <tr>
-        <td>DataBase</td>
-        <td>
-            <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
-        </td>
-    </tr>
-    <tr>
-        <td>Server</td>
-        <td>
-            <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
         </td>
     </tr>
 </table>
