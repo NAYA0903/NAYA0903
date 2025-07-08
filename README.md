@@ -2,12 +2,6 @@
 
 <br>
 
-## 📝 DEV's log 📝
-<a href="https://velog.io/@naya_0903/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-<a href="https://naya0903.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF6000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-
-<br>
-
 ## 🏬 Careers 🏬
 - <b>IndeepAI</b>(Team.Findeet!) Back-end Engineer (2025.01 ~ ing)
 
@@ -35,6 +29,7 @@
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
         </td>
     </tr>
     <tr>
@@ -83,25 +78,7 @@
 
 <br>
 
-## 😅 A Little 😅
-
-<table>
-    <tr>
-        <th>구분</th>
-        <th>내용</th>
-    </tr>
-    <tr>
-        <td>Front-end</td>
-        <td>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-        </td>
-    </tr>
-</table>
-
-<br>
-
 ## 📱 Contact 📱
-<a href="https://www.instagram.com/be.dev_naya/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:lior0903@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="mailto:itsmeenaya@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 
