@@ -2,11 +2,6 @@
 
 <br>
 
-## 🏬 Careers 🏬
-- <b>IndeepAI</b> (2025.01 ~ ing)
-
-<br>
-
 ## 💻 Tech Stack 💻
 
 <table>
